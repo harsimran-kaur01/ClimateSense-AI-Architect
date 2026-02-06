@@ -61,11 +61,10 @@ They are intended to support early-stage design reasoning and decision-making on
 ## 🌍 Live Demo
 
 **Public App URL:**  
-👉 https://YOUR-DEPLOYMENT-URL-HERE
-
+👉 [https://YOUR-DEPLOYMENT-URL-HERE
+](https://ai.studio/apps/drive/1mF_l4JNjN8dtrFDHt_lWg2Gh7XKSYXtw?fullscreenApplet=true)
 The application is publicly accessible and requires no login.
 
 ---
 
-## 📦 Repository Structure
 
