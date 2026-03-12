@@ -8,7 +8,7 @@ This is a **new application** built specifically for the **Gemini 3 Global Hacka
 
 ---
 
-## What It Does
+## What Does It Do?
 
 ClimateSense transforms static design inputs into dynamic climate intelligence:
 
