@@ -48,7 +48,7 @@ They are intended to support early-stage design reasoning and decision-making on
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Frontend: React + TypeScript (TSX)
 - Styling: Tailwind CSS
