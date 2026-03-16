@@ -8,6 +8,14 @@ This is a **new application** built specifically for the **Gemini 3 Global Hacka
 
 ---
 
+## Live Demo
+
+**Google AI Studio URL:**  
+[URL](https://ai.studio/apps/drive/1mF_l4JNjN8dtrFDHt_lWg2Gh7XKSYXtw?fullscreenApplet=true)
+-The application is publicly accessible and requires no login.
+
+---
+
 ## What Does It Do?
 
 ClimateSense transforms static design inputs into dynamic climate intelligence:
@@ -58,12 +66,5 @@ They are intended to support early-stage design reasoning and decision-making on
 
 ---
 
-## Live Demo
-
-**Google AI Studio URL:**  
-[URL](https://ai.studio/apps/drive/1mF_l4JNjN8dtrFDHt_lWg2Gh7XKSYXtw?fullscreenApplet=true)
--The application is publicly accessible and requires no login.
-
----
 
 
